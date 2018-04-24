@@ -3,7 +3,7 @@ title: Great coffee with a conscience bis
 subtitle: Test
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Pourquoi Moneecoach
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
